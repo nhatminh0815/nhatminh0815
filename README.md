@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**nhatminh0815/nhatminh0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build frontend and backend applications with AI-assisted development. I’m growing my skills in cybersecurity and secure software development.
 
-Here are some ideas to get you started:
+## 🔐 Cybersecurity Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Secure application development
+- Web security fundamentals
+- Building full-stack projects with AI-assisted tools
+
+## 🛠️ Selected Projects
+
+- **[Bazare Solea](https://bazaresolea.com/)** — Live website
+- **Le Chérimoya Restaurant** — Restaurant website project
+
+## 📚 Currently Learning
+
+Cybersecurity and secure development practices
